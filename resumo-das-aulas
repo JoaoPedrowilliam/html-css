@@ -1,0 +1,44 @@
+Aulas de programação 
+1- Passamos explicação do que é um documento HTML e como ele funciona
+	<!DOCTYPE html>
+	<html lang="pt-br">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>Aqui vai seu Título</title>
+	</head>
+	<body>
+	    
+	</body>
+	</html>
+Nesse modo foi passado o que cada linha faz ou represent, também foi paassado como abri um novo documento no VScode e como criar aquivos de dentro da pasta tanto HTML como CSS
+
+2- Foi passado tambem uma explicação sobre a internet e com funciona o tipo de dados que são usados
+	Como: Bit KB 
+		MB Mb e sua diferenças 
+
+3- Passamos pelas (Tags) como:
+	h1 = Usada para colocar um título no site
+	p = Usada para colocar um paragráfo 
+	h = Usada para cria um linha na horizontal
+	br = Usada para quebra de linha no seu site
+	<!-- --> = Utiliazado para colocar um comentário no arquivo HTML
+
+4- Também foi falado sobre símbulos e emoji
+	TIPOS DE SÍMBULOS:
+	 	&reg; &copy; &trade; &euro; &pound; &yen; &cent; &Delta; &uarr
+	EMOJI:
+	  	&#x1F596; &#x1F913; &#x1F680;
+
+5- Sobre imagens no seu site e como colcoar elas usando a tag(img)
+	<img src="caminho da imagem" alt="um título">
+
+6- Hieraquia de títulos
+	Vai de H1 ate H6 uma idea de como pode ser feito 
+		  <h1>Entendendo Portuagal</h1>
+    		<h2>Introdução</h2>
+    			<h3>Justificação da Temática</h3>
+    	A semantica é muito importante pois algumas tags já não são mais utilizadas 
+    		<< OBS: Sempre olhar no site oficial (W3C site ofc do HTML)
+    		fica por dentro do que está se atualizando conforme o tempo.
+    		Tag: Centre, Bgcolor, Marquee
